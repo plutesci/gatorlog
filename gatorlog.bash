@@ -1,7 +1,7 @@
 #!/bin/bash
 ##
 #  A Script that copies from the access log, can be set as a crontab to a
-#  daily file by adding it at 5 58 server time before the file is wipped.
+#  daily file by adding it at 5 58 server time before the file is wiped.
 #   
 #  Edit lines for you own server paths, if you store this on your shared
 #  server at hostgator. I would store it as I have, in your home directory.
